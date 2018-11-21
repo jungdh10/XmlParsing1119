@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  XmlParsing1119
+//  XmlNews
 //
 //  Created by 503-14 on 2018. 11. 19..
 //  Copyright © 2018년 503-14. All rights reserved.
